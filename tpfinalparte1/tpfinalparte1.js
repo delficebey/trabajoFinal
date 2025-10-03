@@ -49,7 +49,7 @@ function draw() {
     //textSize(20);
     //text("Reiniciar", 325, 215);
     if (pantallaactual===2){
-      image(Flechita,565,437);
+      image(Flechita,540,400,100,100);
       
     }
   }
@@ -69,5 +69,6 @@ function mousePressed() {
 
   
 }
+
 
 
