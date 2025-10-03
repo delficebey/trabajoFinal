@@ -34,3 +34,4 @@ function draw() {
   image(pantallas[0], 0, 0, width, height );
   
 }
+
